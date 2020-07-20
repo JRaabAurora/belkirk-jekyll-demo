@@ -17,6 +17,5 @@ menu:
     identifier: _posts
     weight: 4
     title: Posts
-published: false
 
 ---
