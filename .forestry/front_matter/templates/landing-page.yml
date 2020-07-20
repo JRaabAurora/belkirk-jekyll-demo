@@ -79,5 +79,4 @@ fields:
   hidden: true
   default: home
 pages:
-- elevator-schedules-2020.md
 - index.md
