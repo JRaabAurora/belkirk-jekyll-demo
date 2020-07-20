@@ -12,6 +12,11 @@ services: []
 show_news: false
 partners: []
 show_staff: false
+menu:
+  navigation:
+    identifier: _posts
+    weight: 4
+    title: Posts
 published: false
 
 ---
