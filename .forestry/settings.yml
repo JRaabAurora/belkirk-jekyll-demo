@@ -5,9 +5,8 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
-  path: schedules
+  path: _schedules/*
   label: Schedules
-  match: "**/*"
 - type: heading
   label: Test
 - type: heading
