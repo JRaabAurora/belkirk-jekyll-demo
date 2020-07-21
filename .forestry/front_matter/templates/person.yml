@@ -35,5 +35,3 @@ fields:
   type: text
   hidden: true
   default: person
-pages:
-- _schedules/*/elevator-schedules-2020.md
