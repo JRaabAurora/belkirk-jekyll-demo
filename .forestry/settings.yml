@@ -7,10 +7,10 @@ sections:
 - type: heading
   label: Test
 - type: directory
-  path: _schedules/*
+  path: _schedules
   label: Schedules
   create: all
-  match: "**/*"
+  match: "*"
 - type: heading
   label: Content
 - type: jekyll-posts
