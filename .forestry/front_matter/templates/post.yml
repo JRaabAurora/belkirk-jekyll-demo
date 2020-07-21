@@ -39,5 +39,5 @@ fields:
   hidden: true
   default: post
 pages:
-- _posts/elevator-schedules-2020.md
+- _posts/2020-07-21-elevator-schedules-2020.md
 - _schedules/schedules-may-2020.md
