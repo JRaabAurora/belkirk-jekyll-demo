@@ -8,7 +8,6 @@ tags:
 - " 2020"
 banner_image: ''
 related_posts: []
-published: false
 
 ---
 Aurora, NE
