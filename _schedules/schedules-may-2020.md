@@ -8,6 +8,10 @@ tags:
 - " 2020"
 banner_image: ''
 related_posts: []
+menu:
+  footer:
+    weight: 4
+    title: Schedules
 
 ---
 Aurora, NE
