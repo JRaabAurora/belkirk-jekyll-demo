@@ -6,6 +6,11 @@ webhook_url:
 sections:
 - type: heading
   label: Test
+- type: directory
+  path: _schedules/*
+  label: Schedules
+  create: all
+  match: "**/*"
 - type: heading
   label: Content
 - type: jekyll-posts
