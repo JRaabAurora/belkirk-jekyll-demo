@@ -12,8 +12,23 @@ menu:
     title: Schedules
 
 ---
-Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Nulla vitae elit libero, a pharetra augue. Donec id elit non mi porta gravida at eget metus. Nulla vitae elit libero, a pharetra augue. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+Corn Receiving:  
+Monday, July 6th        8am to 5pm  
+Tuesday, July 7th        8am to 5pm  
+Wednesday, July 8th   8am to 5pm  
+Thursday, July 9th       8am to 5pm  
+Friday, July 10th          8am to 5pm
 
-Cras justo odio, dapibus ac facilisis in, egestas eget quam. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec sed odio dui. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
+WDGS Load Out:  
+Monday, July 6th        6am to 10pm  
+Tuesday, July 7th        6am to 10pm  
+Wednesday, July 8th   6am to 10pm  
+Thursday, July 9th       6am to 10pm  
+Friday, July 10th          6am to 10pm
 
-Dapibus ac facilisis in, egestas eget quam. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec sed odio dui. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
+DDGS Load Out:  
+Monday, July 6th        6am to 8pm  
+Tuesday, July 7th        6am to 8pm  
+Wednesday, July 8th   6am to 8pm  
+Thursday, July 9th       6am to 8pm  
+Friday, July 10th          6am to 8pm
