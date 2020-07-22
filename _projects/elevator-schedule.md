@@ -12,21 +12,21 @@ menu:
     title: Schedules
 
 ---
-Corn Receiving:  
+**Corn Receiving:**  
 Monday, July 6th        8am to 5pm  
 Tuesday, July 7th        8am to 5pm  
 Wednesday, July 8th   8am to 5pm  
 Thursday, July 9th       8am to 5pm  
 Friday, July 10th          8am to 5pm
 
-WDGS Load Out:  
+**WDGS Load Out:**  
 Monday, July 6th        6am to 10pm  
 Tuesday, July 7th        6am to 10pm  
 Wednesday, July 8th   6am to 10pm  
 Thursday, July 9th       6am to 10pm  
 Friday, July 10th          6am to 10pm
 
-DDGS Load Out:  
+**DDGS Load Out:**  
 Monday, July 6th        6am to 8pm  
 Tuesday, July 7th        6am to 8pm  
 Wednesday, July 8th   6am to 8pm  
