@@ -11,6 +11,8 @@ sections:
   label: Schedules
   create: all
   match: "*"
+  templates:
+  - default
 - type: heading
   label: Content
 - type: jekyll-posts
