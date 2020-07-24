@@ -15,3 +15,5 @@ fields:
   type: tag_list
   hidden: false
   default: []
+pages:
+- _projects/9526.md
