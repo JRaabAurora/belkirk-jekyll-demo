@@ -15,10 +15,6 @@ sections:
   - default
 - type: heading
   label: Content
-- type: document
-  path: _elevators
-  label: Elevators
-  match: "**/*"
 - type: jekyll-posts
   label: Posts
   create: all
