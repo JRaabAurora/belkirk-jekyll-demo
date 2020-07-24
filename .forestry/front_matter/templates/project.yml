@@ -16,4 +16,5 @@ fields:
   hidden: false
   default: []
 pages:
+- _projects/1149.md
 - _projects/9526.md
