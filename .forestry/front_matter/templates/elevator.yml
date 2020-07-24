@@ -12,5 +12,10 @@ fields:
   config:
     required: false
   label: Sub Header
+- name: layout
+  label: Layout
+  type: text
+  hidden: true
+  default: elevator_entry
 pages:
 - _elevators/1111.md
