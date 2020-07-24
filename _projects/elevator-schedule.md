@@ -6,10 +6,6 @@ date: '2018-02-25T19:07:50.000+00:00'
 banner_image: ''
 sub_heading: Aurora West Schedule For the week 7/6/20 thru 7/10/20
 slug: ''
-menu:
-  navigation:
-    weight: 5
-    title: Schedules
 
 ---
 **Corn Receiving:**  

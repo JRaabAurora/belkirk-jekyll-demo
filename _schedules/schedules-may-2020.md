@@ -9,6 +9,9 @@ tags:
 banner_image: ''
 related_posts: []
 menu:
+  navigation:
+    weight: 5
+    title: Schedules
   footer:
     weight: 4
     title: Schedules
