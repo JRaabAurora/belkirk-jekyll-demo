@@ -7,11 +7,11 @@ fields:
   config:
     required: false
   label: Title
-- name: sub_header
+- name: sub_heading
   type: text
   config:
     required: false
-  label: Sub Header
+  label: Sub Heading
 - name: layout
   label: Layout
   type: text
