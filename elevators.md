@@ -1,16 +1,7 @@
 ---
-heading: Belkirk College
-sub_heading: Engineering and Health Sciences
-layout: home
 title: Elevators
-banner_image: ''
-hero_button:
-  text: ''
-  href: ''
-textline: ''
-services: []
-show_news: false
-partners: []
-show_staff: false
+layout: projects
+description: Projects by Belkirk College
+publish_date: '2017-11-01T03:00:00.000+00:00'
 
 ---
