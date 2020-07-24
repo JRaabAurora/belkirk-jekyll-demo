@@ -1,7 +1,7 @@
 ---
 heading: Elevators Stuff
 sub_heading: asasdasdasd
-layout: home
+layout: elevator
 title: Elevators
 banner_image: ''
 hero_button:
