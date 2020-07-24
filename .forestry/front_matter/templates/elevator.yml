@@ -13,3 +13,8 @@ fields:
   config:
     required: false
   label: Subheader
+- name: schedule
+  type: text
+  config:
+    required: false
+  label: Schedule
