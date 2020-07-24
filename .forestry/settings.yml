@@ -15,6 +15,13 @@ sections:
   - default
 - type: heading
   label: Content
+- type: directory
+  path: _elevators
+  label: Elevators
+  create: all
+  match: "*"
+  templates:
+  - elevator
 - type: jekyll-posts
   label: Posts
   create: all
