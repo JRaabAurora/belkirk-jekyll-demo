@@ -14,15 +14,15 @@ layout: default
 					<div class="pure-u-1 pure-u-md-1-3">
 						<div class="card">
 							<div class="card-header">
-							{% if project.banner_image and project.banner_image != "" %}
-							<img src="{{ project.banner_image | absolute_url }}" alt="{{ elevator.title }}">
+							{% if elevator.banner_image and elevator.banner_image != "" %}
+							<img src="{{ elevator.banner_image | absolute_url }}" alt="{{ elevator.title }}">
 							{% else %}
 								<img src="{{ "/img/placeholder.png" | absolute_url }}" alt="{{ elevator.title }}">
 							{% endif %}
 							</div>
 							<div class="card-body">
 								<h3><a href="{{ elevator.url | absolute_url }}">{{ elevator.title }}</a></h3>
-								<p>{{ elevator.sub_heading | slice: 0, 80 }}</p>
+								<p>{{ elevator.sub_header | slice: 0, 80 }}</p>
 							</div>
 						</div>
 					</div>
